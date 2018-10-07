@@ -173,6 +173,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
+- [Vue.js](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
 
 # Editor Keymaps
